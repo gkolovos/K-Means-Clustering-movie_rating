@@ -7,4 +7,4 @@ In this project suppose that you're a data analyst at Netflix and you want to ex
 The data we'll be using comes from [MovieLens](https://movielens.org/) [user rating dataset](https://grouplens.org/datasets/movielens/). We'll be looking at individual movie ratings later in the notebook, but let us start with how ratings of genres compare to each other.
 
 In order to run this project, jupyter notebook must be installed to your computer.
-Pythor should also e installed
+Python should also be installed
